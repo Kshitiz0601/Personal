@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: rgb(77, 71, 71);
+  color: rgb(253, 253, 253);
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body style="background-image: url(projectback.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;">
+
+<h1 style="text-align: center; background-color: springgreen;">RESEARCH PAPERS</h1>
+
+<h3><b><u>BIG MART SALES PREDICTION RESEARCH PAPER</b></u></h3>
+<button class="collapsible"><b>Click to view Details:</b></button>
+<div class="content">
+    <h4>In this we have taken a 8000 tuple data set of big mart sales. We are applying different data mining algorithms like SVM, AdaBoost, KNN, DBSCAN, Logistic Regression, Gradient Boosting, Decision Tree, Random Forest for predicting the sales of big mart depending upon different factors.
+        <br><br>CLICK TO VIEW : <a href="datamining.pdf">DOCUMENT</a>
+    </h4>
+</div>
+
+<h3><b><u>CROP DETECTION USING MATLAB RESEARCH PAPER</b></u></h3>
+<button class="collapsible"><b>Click to view Details:</b></button>
+<div class="content">
+    <h4>Our proposed system will be taking image of a leaf and will be 
+        comparing it with our existing database, if a match is found in the 
+        database it will show the name of the plant and its details to the user from 
+        the internet to the user.
+        This system will be using the image processing to detect the leaf and 
+        compare it with the database
+        <br><br>CLICK TO VIEW : <a href="cropdetection.pdf">DOCUMENT</a>
+    </h4>
+</div>
+
+<h3><b><u>TALENT HUNT PORTAL USING DJANGO FRAMEWORK RESEARCH PAPER</b></u></h3>
+<button class="collapsible"><b>Click to view Details:</b></button>
+<div class="content">
+    <h4>Our idea is to create a platform where people are 
+        recognized by the projects that they build and the skills that 
+        they possess. We enable brilliant minds to collaborate easily. 
+        People or groups can find the necessary skill easily with our 
+        platform.People can post about their projects and their skills.
+    <br><br>CLICK TO VIEW : <a href="talenthunt.pdf">DOCUMENT</a>
+    </h4>
+</div>
+
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+</body>
+</html>
