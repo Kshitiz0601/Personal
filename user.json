@@ -20,60 +20,70 @@
         "products": [
           {
             "name": "Pearls",
+            "price": "Rs. 250/-",
             "description": "A gift for your special someone or close friends? What can be better than some shining pearls straight from the Bay of Bengal! They are the best kind of go-to items you can buy in coastal areas. While they are plenty of jewelry stores and local artisans claiming to sell authentic and good quality pearl items like ornaments, home decor, purses, accessories, and more, make sure you always do a quality check before you proceed to purchase them. The Andaman Islands have a huge variety of these gorgeous riches from the sea.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Pearls.jpg",
             "category": "Jewellery"
           },
           {
             "name": "Spices",
+            "price": "Rs. 350/-",
             "description": "You can buy superior quality of spices and herbs including the likes of cardamom, cloves, cinnamon, vanilla, betel, and black pepper that is grown and nurtured in abundance in the Andaman islands. These aromatic spices are some of the best things to buy in Andaman and Nicobar for your own home and for gifting to others. You’ll find various spice gardens and plantations in Andaman, and you can visit any of them to find the authentic flavors of this part of India.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Spices.jpg",
             "category": "Grocery"
           },
           {
             "name": "Fishbone Articles",
+            "price": "Rs. 999/-",
             "description": "Though it sounds weird, fishbone items are quite a rage now and make great articles for home decor and gifting. For starters, fishbone dolls make awesome souvenirs and gifting items. Usually made from the bones of the fish that is either dead or has been eaten, these splendidly unique items will surely look fabulous in the showcase and keep the viewer what they’re made of! Crafted by the skilled artisans of Andaman, these are essentially a best-out-of-the-waste craft items that will make some of the best things to purchase in Andaman and should not be missed out",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Fishbone-Articles.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Timber Crafts",
+            "price": "Rs. 1200/-",
             "description": "Wooden items tend to be beautiful and always end up catching attention. The finesse of the wooden goods in Andaman and Nicobar is so eye-catching that you won’t be able to resist the temptation to buy loads of articles from the stores and markets here. From home decor items, toys, accessories, ornaments, to kitchen apparatus, you won’t have a dearth of timber-based things to buy in Andaman and Nicobar islands",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Timber-Crafts.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Shells",
+              "price": "Rs. 399/-",
             "description": "While collecting shells from the beaches of Andaman is a strict no no, it doesn’t mean you cannot bring back home these beautiful pieces of the ocean. Instead of going through the trouble of collecting them from the beaches, you can simply buy them from various stores and handicraft centers that sell them. You can either buy them in the form of lampshades, ashtrays, vases, ornaments, accessories, bags, wall hangings, buttons, key-chains, or as packets of colorful and raw shells that you can convert into something beautiful on your own later. Don’t forget to keep the receipt safe, as you’ll be required to show that at the airport during security checks",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Shells.jpg",
             "category": "Jewellery"
           },
           {
             "name": "Jute Items",
+              "price": "Rs. 499/-",
             "description": "Jute handicrafts are available in abundance in Andaman and make for some of the most famous things to buy in Andaman. It’s among the most important and flourishing industries in Andaman and Nicobar that have started to gain all the more importance nowadays since various local sellers and big marketplaces are shifting from plastic bags to jute and cloth bags in order to help save the environment. You can select from a wide range of jute goods like bags, footwear, hats, jewelry items, clothes, and more. You can either buy jute from the local markets or the big emporiums here.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Jute-Items.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Coconut Handicrafts",
+              "price": "Rs. 799/-",
             "description": "Who doesn’t love some refreshing coconut water and the tender coconut pulp? But what if we tell you that even the hard shell can be used for making something good and doesn’t have to be thrown away? That’s right. You’ll come across various shops and stores in Andaman selling beautiful bowls, showpieces, vases, wind chimes, home decor items, toys, animal figurines, bags, and lampshades made out of coconut shells cut into various shapes and sizes. And they’ll be so pretty and eye-catching that you won’t be able to say no to buying them!",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Coconut-Handicrafts.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Nicobari Mats",
+              "price": "Rs. 1500/-",
             "description": "The tribals of Nicobar islands are known to be skilled in weaving beautiful mats and hangings made out of various natural and locally grown items. Though you can’t really visit the Nicobar Islands as per a ban imposed by the Indian government long ago safety purposes, you can buy these unique articles from select markets and emporiums in Andaman. These mats and tapestries are made by the tribes of Nicobar and they are representative of the vivid culture of these people, indigenous in every way. They are some of the quirkiest things to buy in Nicobar.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Nicobari-Mats.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Sarongs & Hats",
+              "price": "Rs. 699/-",
             "description": "Sarongs as well as hats are a necessity in Andaman, as you need the latter for your trip to the beach and the former will protect you against the harsh tropical sun of this place. The best part – there’s no need to get it from your home destination, as various colourful, quirky, and reasonably priced varieties of these are available for purchase almost everywhere in Andaman. You can find comfortable sarongs made out of simple cotton and/or georgette fabric that makes it wavy and trendy. You can find hats of various shapes, sizes, and colors here made out of material like jute.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Sarongs-And-Hats.jpg",
             "category": "Clothing & Accessories"
           },
           {
             "name": "Cane Goods",
+              "price": "Rs. 1000/-",
             "description": "Don’t forget to buy authentic cane and bamboo products in Andaman that make up a crucial part of the local markets of Andaman. You can find them in plenty of forms like trendy hats, bags, pitchers, vases, mugs, wall hangings, keychains, photo frames, flutes, and much more. You will be able to find pretty items made from cane and bamboo at almost every gift shop and local market in Andaman and will make for great gifting items, souvenirs, and home decor items.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/08/Cane-Goods.jpeg",
             "category": "Home-Decor"
@@ -132,30 +142,35 @@
         "products": [
           {
             "name": "Jutties",
+              "price": "Rs. 500/-",
             "description": "Punjabi jutties is the name given to the typical footwear of Punjab. They are unusual in bearing a grand display of patterns and designs. There is such beautiful embroidery displayed on the jutties that you can’t help being impressed. Lots of hard work goes into making of these jutties, as they stand for the elegance and glory of Punjab. A wide range of fancy materials, like beads, pearls, colored threads, small mirrors and seashells, are used for making these jutties. Punjabi jutties are comfortable to wear and also render a royal look to the wearer.",
             "image": "https://medias.fashionnetwork.com/image/upload/v1/medias/39c04f8b153f62ec5928d6eb221a0f4a2142309.jpg",
             "category": "Clothing & Accessories"
           },
           {
             "name": "Phulkaris",
+              "price": "Rs. 799/-",
             "description": "Phulkari is a form of craft in which artistic embroidery embellishes a shawl, saree, dupatta (head scarf) or the entire dress. The phulkari that covers the entire dress, making the base material invisible, is called bagh (a garden of flowers). Bagh is generally used for special occasions, like marriages and festivals. A special kind of thread is used for phulkari, which is called pat. The designs used are varied, like animal, vegetable, sun, moon, scenes of human life, natural beauty and the list continues. In fact, anything that one can think about, other than religious connotations, are represented in phulkari. Some varieties of Phulkari and Bagh are Chope, Vari-da-bagh, Ghunghat bagh, Bawan Bagh, Darshan Dwar, Suber, Champa, Surjamukhi, & Satrang.",
             "image": "http://punjabicart.com/sites/default/files/product/product-1494-4453.jpg",
             "category": "Clothing & Accessories"
           },
           {
             "name": "Parandis",
+              "price": "Rs. 399/-",
             "description": "Parandis are the attractive hangings that are worn in the hair. They are widely used by the Punjabi women, especially those living in the rural areas. They usually plait their long hair and decorate the same with parandi, worn at the end of the plait. These parandis are woven out of attractive silk threads, clustered together artistically. They are available in a variety of designs and patterns.",
             "image": "https://www.ekdumdesi.com/wp-content/uploads/2017/11/22.jpg",
             "category": "Clothing & Accessories"
           },
           {
             "name": "Shawls",
+              "price": "Rs. 1299/-",
             "description": "Punjabi shawls are world famous, for their intricate designs, coziness and reasonable price. There are different varieties of shawls available in Punjab, like angora, jamavar, embroidered pashmina, beaded pashmina, cashmillon shawls, kulu shawls and jacquard shawls. Ludhiana, Jalandhar and Amritsar are the main centers producing these shawls.",
             "image": "https://www.jennysargeant.com/upload/images/shopprod/10100/french-cashmere-shawl-circa-1850_10100_catalogue_list_size3.jpg",
             "category": "Clothing & Accessories"
           },
           {
             "name": "Durries",
+              "price": "Rs. 1100/-",
             "description": "Punjabi durries are flat woven rugs, which are either used as bedcovers or as carpets. Generally for large gatherings, whether political, religious or others, durries are spread on the floor, for sitting purposes. These durries are very popular, owing to their stunning traditional designs, woven skillfully with all the minute details. They are quite economical and at the same time, add enormously to the richness of a house's interiors. Though they are widely available in all parts of Punjab, Amritsar and Chandigarh are the main centers for the production of durries.",
             "image": "https://www.rugsville.in/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/r/u/rugsville-trellis-durries-blue-ivory-13699-5x8-rug-13699-58-02.93.jpg",
             "category": "Home-Decor"
@@ -220,54 +235,63 @@
         "products": [
           {
             "name": "Jewellery",
+              "price": "Rs. 899/-",
             "description": "Renowned for its jewellery industry, Rajasthan is one of the world's largest centres for hand-cutting gems. It is also known for its spectacular variety of gold and silver jewellery. Every region in Rajasthan has its unique style and there's something to cater to everyone's tastes. Jaipur in particular, is famous for the Kundan and Meenakari styles of jewellery making, while Pratapgarh's unique style, which involves gold work on glass, is referred to as 'thewa'. So whether you're looking for rustic jewellery or something more regal, gold and silver or even precious stones, Rajasthan is truly a gem of a place for jewellery shopping.",
             "image": "https://www.zerokaata.com/zerokaata-studio/wp-content/uploads/2018/06/rj-bangadi.jpg",
             "category": "Jewellery"
           },
           {
             "name": "Rajasthani Miniature Paintings",
+              "price": "Rs. 999/-",
             "description": "Originally brought to Rajasthan by the Mughals, Rajasthani artists mastered the art of miniature painting and made it their own. The paintings themselves are inspired by the royal and romantic life of the Mughals. There are several styles of Rajasthani miniature paintings to choose from such as the Mewar, Bundi, Kota, Marwar, Bikaner, Jaipur and Kishangarh styles. The painters paint on a variety of materials such as silk, ivory, cotton and paper and a lot of intricate detailing is done to make these works of art pop with life and colour. Beautiful, unique and a great part of the history and culture of Rajasthan, Rajasthani miniature paintings are a must-buy for any visitor to Rajasthan.",
             "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Nih%C3%A2l_Chand_001.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Stone Carvings",
+              "price": "Rs. 699/-",
             "description": "From time immemorial, Rajasthan has been known for its sheer variety of hard rock found in the region. Blessed with an abundant bounty of building material, Rajasthani architects have gone on to construct some amazing structures including forts, temples and palaces which still stand strong today. When it came to construction, no stone was spared. From white marble to pink Dholpur stonr to green Kota stone, white and gray soapstone - everything was utilised to construct elegant statues, idols, figurines, carved panels and elaborate 'jharokas' for gardens and pavilions. The art of carving idols, figurines and utensils out of different types of stone is still in practice in Jaipur, Kota, Barmer, Ajmer and Dungarpur, and these places are worth a visit if you'd like to buy yourself a souvenir.",
             "image": "https://i.pinimg.com/originals/f0/de/91/f0de91518d96d1f76a70664aeb0f95bf.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Terracotta",
+              "price": "Rs. 900/-",
             "description": "An age-old craft in Rajasthan, terracotta earthenware is made by mixing together sawdust, fine mud and clay before moulding it. Every village and community has its own potters who make pots for everyday use along with other vessels such as hookahs, chillums, piggy banks, pickle jars, etc. so you can purchase these with ease anywhere in the state.But if you're looking for something a little more unique, visit Alwar for its paper-thin (kagzi) pottery, Bikaner for its painted pottery, Jaisalmer for its stone wares, Molela for wall plaques depicting the images of historic and religious figures, and Pokaran for tiny clay bells that sound just like their metal counterparts.",
             "image": "https://rukminim1.flixcart.com/image/1664/1664/j70sccw0-1/showpiece-figurine/8/9/z/stawdg-sarvsiddhi-original-imaexdyruyfxf6ed.jpeg?q=90",
             "category": "Home-Decor"
           },
           {
             "name": "Blue Pottery",
+              "price": "Rs. 700/-",
             "description": "Another art form that was introduced to Rajasthan by the Mughals, blue pottery came to Jaipur from Persia and Afghanistan. This style of pottery is made from quartz and not clay. Materials that are used include quartz, raw glaze, sodium sulphate, and multani mitti (fuller's earth). The beautiful hues of blue and turquoise are obtained through the use of copper oxide and cobalt oxide which give it a distinctive look. Suitable for everyday use, the biggest advantage of blue pottery is that it does not develop cracks unlike regular earthen pots. Blue pottery is usually designed with Mughal era arabesque patterns, as well as animal and bird motifs. There are a number of products you can purchase including plates, flower vases, soap dishes, surahis (small pitchers), trays, coasters, fruit bowls, door knobs and glazed tiles with hand painted floral designs. The craft is mainly practiced in Jaipur and to a lesser extent in Sanganer, Mahalan, and Neota as well.",
             "image": "https://www.ohmyrajasthan.com/uploads/6/1521891357Blue-Pottery-handicraftglobal.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Wooden Articles",
+              "price": "Rs. 1099/-",
             "description": "Most of the landscape of Rajasthan is dry and arid desert, but there are a few pockets of lush jungle around Jaipur, Banswara, Kota and Udaipur which provide quality wood for craftsmen to create wooden articles. The furniture in particular is of special interest to those looking for antiques. Besides furniture, you'll also find a number of articles including toys, snuff boxes, chests, animal figurines and other interesting memorabilia.",
             "image": "https://adventure.com/wp-content/uploads/2018/05/Rajasthani-block-printing-Bargru-block-printing-community-Photo-credit-Lorna-Parkes-2.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Phads And Pichwais",
+              "price": "Rs. 1200/-",
             "description": "The ancient art of scroll painting known as Phad survives to this day in Rajasthan. A typical Phad is a long, rectangular piece of cloth (between 15 to 30 feet in length) with paintings illustrating the life and heroic exploits of the two popular folk heroes, Pabuji and Devnarayan. Phads are painted by the Joshis of Shahpura, near Bhilwara, based on subjects like Bhagwat Purana and other popular folk stories.",
             "image": "https://cdn2.allevents.in/thumbs/thumb59f6f85803a5f.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Metal Crafts",
+              "price": "Rs. 1599/-",
             "description": "Once a land of kings and warriors, metal in Rajasthan was used to craft weapons. These days however, metal figurines, pillboxes, photo frames and vases are the staple of Rajasthani metal crafts. Vibrant colours and complicated patterns are a unique characteristic of the metal crafts of Rajasthan and they make great decorative pieces for the home. Tourists interested in purchasing these articles can find them with ease as they are available all throughout the state.",
             "image": "http://aitcofficial.org/wp-content/uploads/2017/10/Dokra.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Carpets And Durries",
+              "price": "Rs. 1199/-",
             "description": "Carpets and dhurries were first manufactured in Rajasthan when weavers from Afghanistan were invited to the royal Mughal ateliers in the 17th century AD. Since then, the craft has flourished and these simple rugs have now become one of the state's most famous weaving traditions. The dhurries are usually made by weavers in villages who use looms to create an interesting blend of patterns - mostly geometric, sometimes floral, in a dazzling combination of colours. Make a trip to Bikaner, Jaisalmer and Salawas in Jodhpur to purchase dhurries made of cotton yarn or camel hair. The areas around Tonk, a town that is about 95 km south of Jaipur are worth a visit to purchase namdahs, a type of felted woollen carpet.",
             "image": "http://www.obeetee.com/img/Banner5.JPG",
             "category": "Home-Decor"
@@ -349,60 +373,70 @@
         "products": [
           {
             "name": "Coffee",
+              "price": "Rs. 600/-",
             "description": "It is no wonder that 10 million tonnes of coffee are consumed every year, such as the magic of this humble cup of beverage. If you too belong to the coffee-loving brigade, your Kerala shopping expedition can never really begin for you without getting your hands on an aromatic bag of locally grown Kaapi.  The delicious Malabar Monsoon Coffee available here is also a fantastic option to choose. Rich in flavour, aroma and colour as well, this coffee beans powder not only makes for a fantastic item to buy in Kerala not only for yourself but also as a souvenir or gift for your friends and family",
             "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/South-Indian-Coffee-e1524192277128.jpg",
             "category": "Grocery"
           },
           {
             "name": "Aroma Oila",
+              "price": "Rs. 495/-",
             "description": "Kerala is famous for its Ayurvedic treatments for various purposes from treating certain ailments to beauty procedures too. There are many places to visit in Kerala that are world famous for their Ayurvedic treatments, yoga and more. The massages are carried out through different therapies using various aroma oils, based on the concept of aromatherapy. Even most of the resorts and hotels in the state have spa centres offering rejuvenating massages. Therefore buying aroma oils has inadvertently become an important part of your Kerala Shopping experience. You will find top quality aroma oils here of different varieties, used for different purposes.",
             "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/oil-e1524192373817.jpg",
             "category": "Grocery"
           },
           {
             "name": "Spices",
+              "price": "Rs. 399/-",
             "description": "The warm and humid climate of Kerala is perfect for the cultivation of a variety of rich spices like cardamom, star anise, black pepper, turmeric, cinnamon, clove etc. This makes it perfect for you to go shopping in Kerala for these lovely and aromatic spices as well. What makes it even cooler, is the fact that since the usually expensive spices are grown here, you can get them at really competitive prices.",
             "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Spices-e1524192420166.jpg",
             "category": "Grocery"
           },
           {
             "name": "Tea",
+              "price": "Rs. 900/-",
             "description": "Just like coffee, tea also finds its fans almost everywhere in the world and Kerala has some superb offerings on that front too. The Nilgiri tea cultivated here is made from superb tea leaves which have a beautiful flavour. The delicate and smooth taste and colour of this tea are simply amazing. This makes this product an equally worthy item to buy when Shopping in Kerala. It is both a practical thing to invest in and also makes for a wonderful gift.",
             "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Tea-e1524192323272.jpg",
             "category": "Grocery"
           },
           {
             "name": "Cashew Nuts",
+              "price": "Rs. 1120/-",
             "description": "Just like spices, tea and coffee, cashew nuts too find their origination in the fertile land of God’s Own Country. Hence, if you want to stock up on your supply of nuts, it is a great way to do so while you are out for your Kerala shopping trip. You can get them at a fairly lower price here, without compromising on the quality.",
             "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/cashewsraw-e1524192462208.jpg",
             "category": "Grocery"
           },
           {
             "name": "Banana Chips",
+              "price": "Rs. 100/-",
             "description": "Banana chips are another famous and must-buy items of the state, making them an unavoidable part of your Kerala Shopping spree. These yummy and light snacks made out of raw bananas is profusely available all over Kerala. Just make sure you taste them beforehand and bargain if purchasing in a bulk.",
             "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Banana-Chips-2-e1524192613182.jpg",
             "category": "Grocery"
           },
           {
             "name": "Wooden Caskets And Boat Models",
+              "price": "Rs. 1500/-",
             "description": "Known locally as Nettur Caskets and Chandan Vallam, these ornately crafted wooden chests can only be found shopping in Kerala. You can use these dainty boxes to store knick-knacks such as rings or earrings or simply place them in your drawing room to receive some admirations from guests. Same goes for boats or Urus, which are the lovely little models of the popular snake boats of Kerala, used in the boat racings.",
             "image": "https://images-na.ssl-images-amazon.com/images/I/81MaDwVCwnL._SL1500_.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Kathakali Masks",
+              "price": "Rs. 300/-",
             "description": "Often represented through the expressive and vibrant masks and dance of Kathakali, the classical dance form is really the face of the state. This certainly calls for shopping in Kerala for this beautiful masks which you can hang in your home or stick one as a fridge magnet.",
             "image": "https://lh3.googleusercontent.com/cLxTE0sa4lLI0saF3tOSVUM02sGbBfUhM00LWcoY0xz3RLxO3QcMvHuJpsHtm2F326iU4Kg_xQcu9_iI78q08Hd0ak8g-qUwUgWjxO09LSTe2c4BMiaw59WvbeYIb_ErkhISXY5UIJgYTFHuIFVHgBudA5lGDGVtWhvJNiM-k4EoSHS5zKtt3bnM050ZAwHXyzbbwnV8m5aacUDpSbC5mghpvvzY1fi1wdu7E0sOx0EAn-rbtrR0va4YS9FtURZklvoxQRT_4cdUyhv4RRY2Ygk4Aapz8eQo8WIrvzXxxohk6itJZWk3vvnmVvRbhz1xgNb_j25Vk2TfWDR9QvjLs62VeoVT1mAbVA8uaBWqa7rErGDPYur87OPOG6uWk_SQq5CIEgPsJKhzpGfdbFKLO-jUj92XAcvyYbuXynn9FqzUcqylbo3ajjf7vIe0OIlZjvbHYaVoXin3n7CuXQKO1Dto5scYfO_0dVBbo50tM_Iec9819X3VJjDNU0s4FPtufSiTqUikzBnIyRxGZZD1S9Zezq1S5EKjb4xhBmqtg4sMg6LTwGAJJAxBQktFiPLWORu6MjHPNMAuURW0-icb4EFFC41znR3FHIoor5AOV7gFniF3V5hs4sbpqoC1DXfW55xUtR661kO5f9KYCJbGTHeM95r96fQ9ziooAdULiKyuUD3Vfy3IVMx9memGuRtinG3ZbNnvhoM-aLc1KgY=w1299-h870-no",
             "category": "Clothing & Accessories"
           },
           {
             "name": "Jewellery",
+              "price": "Rs. 779/-",
             "description": "Jewellery is another important must-do items in the list of things to do in Kerala. The intricate designs embellished with different precious and semi-precious gems or pearls is simply fascinating. To celebrate the womanhood in you or to gift someone you adore, you can buy these superb pieces of jewellery in gold, depicting the true Malayali style, and the artificial one too, which are as good as the real ones.",
             "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/jewellery-e1524192715888.jpg",
             "category": "Jewellery"
           },
           {
             "name": "Cocunut And Coir Items",
+              "price": "Rs. 599/-",
             "description": " Kerala is well known for its abundance of coconuts. This makes it an ideal place to grab some coconut or coir based products such as rugs, wall hangings, pure coconut oil, mats, delicacies made of coconut and other cool stuff made from its husk.",
             "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Crafts-e1524192661475.jpg",
             "category": "Home-Decor"
@@ -595,60 +629,70 @@
         "products": [
           {
             "name": "Jams & Pickles",
+              "price": "Rs. 800/-",
             "description": "One of the famous things to buy while shopping in Uttarakhand is the fresh jam. It is way more delicious and fresh than the ones you buy from those shelves in supermarts. Once you taste these jams, you will feel like you are actually eating fruit. The variety of jams is galore too. You have mixed fruit, apple, strawberry, blueberries, mango, etc. You can even buy fresh pickles in Uttarakhand. Some of the best pickles to buy are mushrooms, lotus stem, and mixed pickle.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/04/Jams-Pickles1.jpg",
             "category": "Grocery"
           },
           {
             "name": "Local Wine",
+              "price": "Rs. 2000/-",
             "description": "If you are a wine connoisseur, then you should try the local wines made in the wineries of Uttarakhand. Sure, they don’t taste better than Sula or those expensive French wine, but they will definitely get you tipsy. These wines are made with a variety of sources like apple cider and grapes. It is worth a try. They are not very expensive either. You will find local wine shops easily in the streets and markets from where you can buy as many bottles of wine as you want.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/04/Local-Wine.jpg",
             "category": "Grocery"
           },
           {
             "name": "Honey",
+              "price": "Rs. 600/-",
             "description": "Honey is another thing you should buy while shopping in Uttarakhand. Why not when Uttarakhand has a lot of beekeeping farms. Taste the freshness and sweetness in every drop of that natural honey. The best part is that it is organic. There is no adulteration or additives added into honey which is why it stays perishable for years. You will find a variety of flavors too, like litchi flavored honey.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/04/Honey.jpg",
             "category": "Grocery"
           },
           {
             "name": "Woolen Clothing",
+              "price": "Rs. 999/-",
             "description": "One of the best things to buy from any hill station is woolen clothing. Buy hand-knitted scarfs, socks, sweaters, and shawls from the handicraft bazaars of Uttarakhand. These woolen items will keep you safe from the harsh winters on the hill station. There is no other way. Also, you will remember for years how you bought that sweater or scarf on your trip to Uttarakhand. These woolen items also make nice souvenirs to gift to your loved ones.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/04/Woolen-Clothing.jpg",
             "category": "Clothing & Accessories"
           },
           {
             "name": "Ringaal Handicraft",
+              "price": "Rs. 2599/-",
             "description": "One of the things Uttarakhand is famous for is bamboo handicrafts made by Ringaal people in the Kumaon region. These beautiful bamboo art pieces are a 100% eco-friendly and last long. You will find bags, purses, lampshades, furniture, and what not, all spun out of bamboo. Everything is crafted so well that you will not be able to help yourself from buying. There are kitchen utility items, carpets, and even cute baskets made from bamboo. Get one of these for yourself on your next vacation.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/04/wickerwork.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Rambaans Handicraft",
+              "price": "Rs. 1099/-",
             "description": "Local people in uttarakhand are very talented. Who would have thought that they would weave something out of jute and hemp? Rambaans is a local art form made using hemp and jute fiber. You will find bags, purses, wall hangings, and showpieces hanging at the shops in various markets in Uttarakhand. Again, these items are more sustainable and upcycled products. So, buying them will make you feel good and using them will make you happier.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/04/jute.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Angora & Pashmina",
+              "price": "Rs. 3999/-",
             "description": "One of the things that you should buy while shopping in Uttarakhand is Angora or pashmina shawls. Angora and pashmina fabrics are woven from the hair of mountain goats and these fabrics are the warmest clothing you can have. You will find beautiful shawls with intricate embroidery at various shops in Uttarakhand. To test whether it is real pashmina or not, pass the fabric through your ring. If it does, it is real.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/04/pashmina.jpg",
             "category": "Clothing & Accessories"
           },
           {
             "name": "Wooden Crafts",
+              "price": "Rs. 1250/-",
             "description": "There is one thing that you will find in abundance in Uttarakhand and that is wooden craft. In fact, the Himalayan state excels in the art of woodwork. The Gunjyal tribe is known for its excellent craftsmanship and they can create anything out of wood. Buy walking sticks, jewelry boxes, animal figurines and other useful items made from the wood of mountain trees.",
             "image": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/04/wooden-toys-1137943_1280.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "Aipan",
+              "price": "Rs. 1000/-",
             "description": "An important native art coming from the region of Kumaon in Uttarakhand, Aipan is a folk art that is associated with the legends of the region’s tradition. The art is the perfect combination of skill and imagination that are demonstrated on the shawls and stoles, wall hangings, bookmarks, coasters, photo frames etc.",
             "image": "https://i.pinimg.com/originals/41/13/7d/41137d61c87a864bafba83468ddb7d06.jpg",
             "category": "Home-Decor"
           },
           {
             "name": "copperware",
+              "price": "Rs. 800/-",
             "description": "Making use of the copper is deeply integrated into the traditions of Uttarakhand. The art of copperware can be seen practiced in several parts of the state where the artists indulge in making items like copper pots, water tillers, drinking glasses, musical instruments, masks and other essential elements out of copper.",
             "image": "https://www.floraldance.co.uk/wp-content/uploads/2018/02/Styled-shoot-camp-katur-low-res-26-of-157.jpg",
             "category": "Home-Decor"
@@ -789,36 +833,43 @@
         "products": [
           {
             "name": "Dorjes",
+              "price": "Rs. 1100/-",
             "description": "Dorjes are weapon-like structures which are used as a ritual object to symbolize both the properties of a diamond and a thunderbolt. They are essentially a type of club with a ribbed spherical head. They make beautiful show pieces or gift items. You can pick one up while shopping at Old Manali.",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vajra.jpg/751px-Vajra.jpg"
           },
           {
             "name": "Thangkas",
+              "price": "Rs. 1200/-",
             "description": "Thangkas are paintings made on cotton, or silk appliqué cloth, usually depicting a Buddhist deity, or a spiritual scene. Generally, thangkas last a very long time and retain much of their lustre, but due to their delicate nature, they have to be kept in dry places where moisture will not affect the quality of the silk. They are commonly called a scroll-painting.",
             "image": "https://farm2.staticflickr.com/1330/4724590679_0f16938940_b.jpg"
           },
           {
             "name": "Kullu Caps",
+              "price": "Rs. 800/-",
             "description": "Generally made out of pure wool, Kullu caps are very warm and protect your head from the severe cold of the mountains. One of the very prominent products of Manali handlooms, Kullu caps are known for their beautiful blend of attractive colors and fine quality (though traditionally the caps are coloured green). You can pick one up from numerous shops on the Mall Road.",
             "image": "https://discoverkullumanali.in/wp-content/uploads/2015/07/Kullu-caps-1024x551.png"
           },
           {
             "name": "Prayer Weels",
+              "price": "Rs. 500/-",
             "description": "It is an exclusive Tibetan praying instrument that always bears the chant \"Om Mani Padme Hum\". It is a cylindrical object that turn on an axle with a long handle. A slight rotation of the wrist turns the wheel around. Inside this cylinder, written on paper or skin, are esoteric Buddhist mantras. It is believed that praying is done automatically if one sets the wheel in motion. They make beautiful gifts and souvenirs.",
             "image": "https://farm3.staticflickr.com/2743/4323371424_5457186b01_b.jpg"
           },
           {
             "name": "Kinnauri and Kullu Shawls ",
+              "price": "Rs. 1199/-",
             "description": "Kullu shawls are available in extremely beautiful and flamboyant colors and patterns. Just as the names suggest, these shawls originate from Kullu and Kinnaur. The designs on Kinnauri shawls hold a religious significance as the range of colors used in various patterns symbolize the religious and mythological history of the region. These shawls are undoubtedly among the best things to buy in Manali.",
             "image": "https://farm6.staticflickr.com/5284/5306483758_32ff9b9f8a_b.jpg"
           },
           {
             "name": "Woolen Clothing",
+              "price": "Rs. 1300/-",
             "description": "Whether you are looking for sweaters, cardigans or warm wool caps and mufflers, Manali is a heaven for woolen shopping, especially if you are visiting during the winters. Pay a visit to the Manu Market and you are bound to leave with a bagful of smart woollens.",
             "image": "https://pixfeeds.com/images/needlework/knitting/1280-496861438-knitted-winter-clothes.jpg"
           },
           {
             "name": "Tibetan and Himalayan Handicrafts",
+              "price": "Rs. 1500/-",
             "description": "From intricately carved furniture and incense to the ever so intriguing singing bowl, the shops in Manali have it all on offer. Pick from a wide selection of Tibetan handicrafts and take back home a piece of the Himalayas. Tibet Art Collections is the ideal place to visit for such artifacts.",
             "image": "https://farm5.staticflickr.com/4149/5411821559_ab37e1dfc8_b.jpg"
           }
@@ -996,6 +1047,7 @@
         "products": [
           {
             "name": "Bandhej",
+              "price": "Rs. 1999/-",
             "description": "The best place for Bandhani and cotton fabric shopping in Ahmedabad is at Bandhej. Started in 1985 by Archana Shah, Bandhej has become synonymous with sustainable clothing. Its designs are elegant and change with the trends and seasons. Best picks at Bandhej would include kurtas, dupattas and tunic skirts.",
             "image": "https://cdn.shopify.com/s/files/1/1027/2035/products/5_fad6153f-6343-4c4c-b66e-d8a41764155b.jpg?v=1571438909"
           }
