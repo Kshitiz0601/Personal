@@ -121,7 +121,104 @@
             "images": "https://www.tripsavvy.com/thmb/SF7NoKaUPvXKxBkDbmPrC-GSddU=/2121x1414/filters:fill(auto,1)/GettyImages-508601155-592e840f5f9b5859500d0724.jpg",
             "location": "https://www.google.co.in/maps/place/Swaraj+Dweep/@11.9656084,92.9194242,12z/data=!3m1!4b1!4m5!3m4!1s0x3088d3d85e0fe039:0x25c8aaaa513ef4bf!8m2!3d11.9760503!4d92.9875565"
           }
-        ]
+        ],
+          "hotels": [
+          {
+          "name": "Hotel Value Luxury Stay Andaman",
+              "address": "school, masjid, 03 kms from airport next to garden gate apartment, opp. to Dollygunj, near to dollygunj, Dollygunj, Port Blair, Andaman and Nicobar Islands 744103",
+              "image": "https://lh5.googleusercontent.com/p/AF1QipMapNj6NCqkGGpNktjDSzAXVJNcQYoga6QEb3Gq=w253-h189-k-no",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 1500/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 2800/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 4500/-"
+                  },
+              ]
+          }, 
+              {
+                  "name": "Havelock Island Beach Resort",
+              "address": "Beach No.2 ,Govind Nagar Beach,Havelock Island Havelock Island, Andaman and Nicobar Islands 744211",
+              "image": "https://lh3.googleusercontent.com/p/AF1QipNat-EC55DN91DNDb43urnIwab4vJNOGdNu8n_f=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 3500/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 5000/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 7900/-"
+                  },
+              ]
+              },
+              {   
+              "name": "Aquays Hotels & Resorts",
+              "address": "Beach No-3 (Ramnagar Beach Neil Island Neil Island, Andaman and Nicobar Islands 744104",
+              "image": "https://lh3.googleusercontent.com/p/AF1QipO7jladL3ADD3FKgNz2ezdaZaaViCRwJ17LL0st=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 2800/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 4200/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 6900/-"
+                  },
+              ]
+              },
+              {
+                  "name": "The Seaview Residency",
+              "address": "10 MD Lane, Foreshore Road, Haddo, Port Blair, Andaman and Nicobar Islands 744101",
+              "image": "https://lh3.googleusercontent.com/p/AF1QipM64EparKIxhX-E5e5iQJkO3R-mYHCeAaElFMT4=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 2500/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 3900/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 5500/-"
+                  },
+              ]
+              },
+              {
+               "name": "Taj Exotica Resort & Spa",
+              "address": "Radha Nagar Beach Number 7, Andaman and Nicobar Islands 744211",
+              "image": "https://lh3.googleusercontent.com/proxy/hRg4vqTyb_FeAAvo73qJYHR0PWYAWhKQ5QAqGGhpuLZSYzzNmZVAeaZUR9WqEWdkNoczOh9fgftQzUgkroz9tOmfYPhQmAxwPD4VkcUQYqavIyghy93joLlxvs1U8J9JI1EF64EH8uo1hPegq3Y03XpJ6AP66w=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 10000/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 22000/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 35000/-"
+                  },
+              ]   
+              }
+                    ],
       },
       {
         "id": "2",
