@@ -426,6 +426,103 @@
           "https://cdn1.tripoto.com/media/filter/tst/img/1682588/Image/1568655470_things_to_do_in_udaipur_rajasthan.jpg",
           "https://static.toiimg.com/thumb/68427211/3.jpg?width=748&height=499"
         ],
+          "hotels": [
+          {
+          "name": "Hotel Fairmont Jaipur",
+              "address": "2 Riico, Kukas, Rajasthan 302028",
+              "image": "https://lh3.googleusercontent.com/p/AF1QipOLWpzNgzonAmhOZrQ0aEuxiayaQ5OipTuIZOSV=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 8000/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 16000/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 23000/-"
+                  }
+              ]
+          }, 
+              {
+                  "name": "ITC Rajputana Jaipur",
+              "address": "Palace Road, Gopalbari, Jaipur, Rajasthan 302006",
+              "image": "https://lh3.googleusercontent.com/p/AF1QipMnr4iGULh0-HTP6womC_6m2I0-Zk3TkMKA0hG7=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 7000/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 14000/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 25000/-"
+                  }
+              ]
+              },
+              {   
+              "name": "Ranthambore Tiger Resort",
+              "address": "Ranthambore Tiger Resort, Village Sherpur Near Ranthambore National Park, Ranthambore Road, Sawai Madhopur, Rajasthan 322001",
+              "image": "https://lh3.googleusercontent.com/p/AF1QipPgbgQvPd8q_LzfqRix9mZRZHz3hOCLhlDfJN38=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 2800/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 4200/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 6900/-"
+                  }
+              ]
+              },
+              {
+                  "name": "The Fort Pokaran - A Heritage Hotel",
+              "address": "Dist, Pokhran, Rajasthan 345021",
+              "image": "https://lh3.googleusercontent.com/p/AF1QipMx2v1vCTWH7AjaQzMFJzQA7QFyqul50TdB7L__=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 4500/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 8000/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 13000/-"
+                  }
+              ]
+              },
+              {
+               "name": "Regenta Resort Vanya Mahal",
+              "address": "Ranthambhore Rd, Subhash Nagar, Railway Colony, Sawai Madhopur, Rajasthan 322001",
+              "image": "https://lh3.googleusercontent.com/p/AF1QipPSTYnCY5r-arXOZOnP-R7DUAPjFYwU433FrHmf=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 5500/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 12000/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 20000/-"
+                  }
+              ]   
+              }
+         ],
         "products": [
           {
             "name": "Jewellery",
