@@ -236,6 +236,103 @@
           "https://bit.ly/2QiHPrf",
           "https://bit.ly/2plyIe9"
         ],
+          "hotels": [
+          {
+          "name": "Fairfield by Marriott Amritsar",
+              "address": "Albert Rd, INA Colony, Amritsar, Punjab 143001",
+              "image": "https://lh3.googleusercontent.com/p/AF1QipNJOlUYp37KGQdHv4b5Cwkgl4OjSPIucTVtXCp0=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 3100/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 7400/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 11000/-"
+                  }
+              ]
+          }, 
+              {
+                  "name": "Radisson BLU Hotel MBD Ludhiana",
+              "address": "Mbd Neopolis, Ferozepur Rd, Ludhiana, Punjab 141012",
+              "image": "https://lh3.googleusercontent.com/p/AF1QipPcdCRBoMMmtUroDGjw-BfOZwaRHJfUvyDG_MOY=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 4000/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 8400/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 12000/-"
+                  }
+              ]
+              },
+              {   
+              "name": "Hyatt Regency Ludhiana",
+              "address": "Site No. 4 Ferozepur Road, Ludhiana, Punjab 141001",
+              "image": "https://lh3.googleusercontent.com/proxy/xXyNSD-Qf-9rzw7XLHri8zgR8MQvl0xncHuax6wDPHRHu8mMFAvXo_-FVsoa9Ft_gx7NLrs-QsnfWz3cvbQgU2eCuAWCQPtbf7LoN6LxDawMcwVUgSP1fYD-Dg7fRrr3Vz1DeDn1LTYweEWU7AoD3Ri4U0NH2sc=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 5000/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 10500/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 15499/-"
+                  }
+              ]
+              },
+              {
+                  "name": "Ramada by Wyndham Amritsar",
+              "address": "117, 1, Hall Rd, Hall Bazar, Katra Ahluwalia, Amritsar, Punjab 143006",
+              "image": "https://lh3.googleusercontent.com/proxy/llyvzOeun56c6l5nm0Ah7qfLLC-hqrDGmWWO0xKyzN1FvEFYqWtWD6MjnSLIgo_EKMoLjmFpqz7a9iFne4iMc1VWag04v0lDoHQDEg5Sv8ICacJF5YimGa7iwbYhZRXht8TpvpdB5NDTBbSdrJxrwhBErusGHjg=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 3000/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 6800/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 10500/-"
+                  }
+              ]
+              },
+              {
+               "name": "Regenta Central Klassik",
+              "address": "Link Rd, Model Town, Ludhiana, Punjab 141002",
+              "image": "https://lh3.googleusercontent.com/proxy/7T9UHsl8n5RRzYNFIJQlqAig3a3e8Q7NnEP9RZ22gILLmU69_D5WJE-lQLJTct_ZE_7r6gGL4MeK70mLNK3x1MuFI1fkgXR9K5E-6mBV2kkq2BiU3KtsqDpoxBuMKaOjfk4nL484eDXNKD9nM72FcOuEiSlhEA=w592-h404-n-k-rw-no-v1",
+              "rooms":[
+                  {
+                      "type": "Double Bed Room",
+                      "price": "Rs. 5000/-"
+                  },
+                      {
+                      "type": "Luxury Suite",
+                      "price": "Rs. 8000/-"
+                  },
+                      {
+                      "type": "Penthouse",
+                      "price": "Rs. 13000/-"
+                  }
+              ]   
+              }
+         ],
         "products": [
           {
             "name": "Jutties",
